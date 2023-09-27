@@ -10,7 +10,7 @@ class LoginHome extends StatelessWidget {
         child: Stack(
           fit: StackFit.expand,
           children: [
-            LoginForm(), // Seu widget de formulário de login
+            LoginForm(),
           ],
         ),
       ),
